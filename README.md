@@ -70,11 +70,11 @@ Pi Star Projector: AI-driven IoT with Raspberry Pi, Python, and Bedrock to keep 
 
 📲 Say Hi:
 
-LinkedIn
+[LinkedIn](www.linkedin.com/in/brandy-brewer-91755a119)
 
-Email
+[Email](brandy.hope95@gmail.com)
 
-Portfolio
+Portfolio -> Coming Soon!
 
 
 
